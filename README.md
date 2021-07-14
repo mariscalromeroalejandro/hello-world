@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository on GitHub. Let's start.
+This is my first project on GitHub. Welcome to my account. Hope you enjoy my code.
